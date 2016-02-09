@@ -1,4 +1,3 @@
-// generated on <%= data %> using <%= name %> <%= version %>
 var gulp      = require('gulp');
 var gutil     = require('gulp-util');
 var webpack   = require('webpack');
