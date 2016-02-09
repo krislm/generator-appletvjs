@@ -1,0 +1,17 @@
+{
+  "name": "generator-appletvjs",
+  "version": "1.0.0",
+  "description": "",
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator",
+    "appletv"
+  ],
+  "author": "mcabe",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^0.22.5"
+  }
+}
