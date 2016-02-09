@@ -1,6 +1,6 @@
 {
   "name": "generator-appletvjs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A generator for scaffolding a basic Apple TV app using Apple's new TVJS framework.",
   "repository": "https://github.com/mcabe/generator-appletvjs",
   "files": [
